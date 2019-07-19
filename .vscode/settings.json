@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "C:\\Python36\\python.exe",
+    "azure-iot-edge.platforms": {
+        "amd64": [],
+        "arm32v7": [],
+        "windows-amd64": [],
+        "arm64v8": []
+    },
+    "azure-iot-edge.defaultPlatform": {
+        "platform": "amd64",
+        "alias": null
+    }
+}
